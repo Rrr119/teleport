@@ -1,0 +1,17 @@
+{
+  "root": "/home/dev/feedback/uid31488",
+  "B": "/home/dev/feedback/uid31488",
+  "sha": "530e5c77178ea0ca5ddcf16a503693490926302e",
+  "wslDistro": "Ubuntu-26.04",
+  "source": {
+    "owner": "gravitational",
+    "repo": "teleport",
+    "sha": "530e5c77178ea0ca5ddcf16a503693490926302e"
+  },
+  "fork": {
+    "owner": "Rrr119",
+    "repo": "teleport",
+    "cloneUrl": "https://github.com/Rrr119/teleport.git"
+  },
+  "at": "2026-11-21T08:48:59.781Z"
+}
